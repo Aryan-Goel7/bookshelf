@@ -1,4 +1,21 @@
-# React + TypeScript + Vite
+# BookShelf
+
+Run these commands to run locally
+```
+git clone https://github.com/Aryan-Goel7/bookshelf . 
+npm i
+```
+
+Create a .env file in the root directory and paste this
+```
+VITE_API_URL=https://openlibrary.org/search.json
+```
+Then run the command 
+```
+npm run dev
+```
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
